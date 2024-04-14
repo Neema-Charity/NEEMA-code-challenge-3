@@ -7,7 +7,7 @@
 This is an application, Flatadango, that allows a user to purchase movie tickets from the theater.
 
 ## LIVE SITE
-(https://github.com/Neema-Charity/Neema_code-challenge-3)
+(https://neema-charity.github.io/NEEMA-code-challenge-3/)
 
 ## TECHNOLOGIES
 HTML
